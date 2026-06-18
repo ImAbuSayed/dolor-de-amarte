@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-de-amarte/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dolor de amarte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-amarte/) |
+| **Get License** | [Get a Licensing Quote for Dolor de amarte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-de-amarte/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, dímelo, que la noche llama
+> Tengo el corazón prendido en tu llama
+> Ese dolor de amarte me vuelve loco
+> Ven y dame un beso, que me sabe a poco
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
