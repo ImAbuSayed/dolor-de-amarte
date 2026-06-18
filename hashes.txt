@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dolor de amarte
+
+This log tracks the cryptographic history and versioning for the song **Dolor de amarte** (dolor-de-amarte).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T02:49:21.943172 | `v1` | `5915c32a20198f3fe19ba4bff34e8a1277d6ccd4386ca248cad4ab96bc4ebae0` | `6e5bd90850d265a1b708b17436745368ab7c16ed0d961376823d5fd44ea984ca` | `2026-06-19_dolor-de-amarte-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
